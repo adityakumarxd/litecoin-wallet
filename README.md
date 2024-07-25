@@ -40,7 +40,7 @@ The source code for this bot will be released once the repository reaches **100 
 
 Watch the video demonstration to see the bot in action:
 
-[![Litecoin Wallet Discord Bot](https://store1.gofile.io/download/web/ba6d3b5c-ae5f-41ba-98c1-049a13af42be/Screenshot%202024-07-25%20at%203.00.36%E2%80%AFPM.png)](https://store10.gofile.io/download/web/9d6f2178-3906-44d8-96ac-c75c44cec1ad/Screen%20Recording%202024-07-25%20at%202.37.49%E2%80%AFPM.mov)
+[![Litecoin Wallet Discord Bot](https://www.youtube.com/watch?v=rAfg_DIVYdU)](https://www.youtube.com/watch?v=rAfg_DIVYdU)
 
 ## Feedback and Support
 
