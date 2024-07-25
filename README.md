@@ -40,7 +40,7 @@ The source code for this bot will be released once the repository reaches **100 
 
 Watch the video demonstration to see the bot in action:
 
-[![Litecoin Wallet Discord Bot](https://www.youtube.com/watch?v=rAfg_DIVYdU)](https://www.youtube.com/watch?v=rAfg_DIVYdU)
+[![Litecoin Wallet Discord Bot](https://img.youtube.com/vi/rAfg_DIVYdU/0.jpg)](https://www.youtube.com/watch?v=rAfg_DIVYdU)
 
 ## Feedback and Support
 
