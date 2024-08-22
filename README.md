@@ -11,6 +11,7 @@ Welcome to the Litecoin Wallet Discord Bot repository! This bot allows users to 
 ## Video Demonstration
 
 Watch the video demonstration to see the bot in action:
+
 [![Litecoin Wallet Discord Bot](https://img.youtube.com/vi/rAfg_DIVYdU/0.jpg)](https://www.youtube.com/watch?v=rAfg_DIVYdU)
 
 ### Transactions
