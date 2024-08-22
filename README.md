@@ -1,6 +1,6 @@
 # Litecoin Wallet Discord Bot
 
-Welcome to the Litecoin Wallet Discord Bot repository! This bot allows users to manage their Litecoin wallets directly from Discord with ease. Our bot provides various features to enhance your Litecoin experience.
+Welcome to the Litecoin Wallet Discord Bot repository! This bot allows users to manage their Litecoin wallets directly from Discord with ease just like exodus (but on discord).
 
 ## Features
 
