@@ -50,6 +50,6 @@ For any feedback or support, feel free to open an issue or join our Discord serv
 ## Contact
 
 - **Discord Server**: [Join Here](https://discord.gg/wksRW73Ytp)
-- **Discord Username**: `akxd`
+- **Discord Username**: `adityakumarxd`
 
 If you are interested in purchasing the source code, you are most welcome to DM me on Discord.
