@@ -8,11 +8,6 @@ Welcome to the Litecoin Wallet Discord Bot repository! This bot allows users to 
 - **Automatic Wallet Creation**: A Litecoin wallet is automatically created for each user when they first interact with the bot. Each user gets a unique wallet linked to their Discord account.
 - **Balance Check**: Users can check their Litecoin wallet balance anytime with the `/balance` command.
 
-## Video Demonstration
-
-Watch the video demonstration to see the bot in action:
-
-[![Litecoin Wallet Discord Bot](https://img.youtube.com/vi/rAfg_DIVYdU/0.jpg)](https://www.youtube.com/watch?v=rAfg_DIVYdU)
 
 ### Transactions
 - **Deposit Address**: Get your Litecoin deposit address using the `/deposit` command.
